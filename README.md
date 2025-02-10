@@ -1,0 +1,4 @@
+# React Router v6 Nested Route Bug
+This repository demonstrates a common issue encountered when working with nested routes in React Router v6.  The problem involves unexpected behavior or rendering problems that occur when nesting routes improperly, especially when using wildcard routes ('*').
+
+The `NestedRoutesBug.js` file contains code that exhibits the problematic behavior. The `NestedRoutesSolution.js` provides a corrected version demonstrating the proper way to handle nested routes to avoid such issues.  This is a subtle bug that can cause significant confusion for developers.  Understanding how to properly configure nested routes within React Router is key to building robust React applications.
